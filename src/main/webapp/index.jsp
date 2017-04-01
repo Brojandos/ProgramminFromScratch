@@ -6,9 +6,16 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Welcome!</title>
+        <link href="css/index.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <h1>Welcome to my web application</h1>
-        <a href='auth.jsp'>Log in</a>
+        <div id="container">
+            <div id="header">HEADER</div>
+            <div id="left">LEFT <a href='auth.jsp'>Log in</a></div>
+            <div id="right">RIGHT</div>
+            <div id="content">CONTENT <a href="db-console.jsp"</div>
+            <div id="clear"></div>
+            <div id="footer">FOOTER</div>
+        </div>
     </body>
 </html>
