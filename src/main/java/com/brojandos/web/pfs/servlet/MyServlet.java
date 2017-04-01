@@ -1,4 +1,4 @@
-package com.brojandos.web.programming_from_scratch.servlet;
+package com.brojandos.web.pfs.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

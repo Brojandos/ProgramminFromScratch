@@ -1,6 +1,6 @@
-package com.brojandos.web.programming_from_scratch.model;
+package com.brojandos.web.pfs.model;
 
-import com.brojandos.web.programming_from_scratch.common.Constants;
+import com.brojandos.web.pfs.common.Constants;
 
 /**
  * @author: Brojandos

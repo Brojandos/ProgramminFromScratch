@@ -1,4 +1,4 @@
-package com.brojandos.web.programming_from_scratch.common;
+package com.brojandos.web.pfs.common;
 
 /**
  * @author: Brojandos

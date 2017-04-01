@@ -1,4 +1,4 @@
-package com.brojandos.web.programming_from_scratch.entity;
+package com.brojandos.web.pfs.entity;
 
 /**
  * @author: Brojandos

@@ -1,7 +1,9 @@
+package com.brojandos.web.pfs.servlet;
 
-import com.brojandos.web.programming_from_scratch.common.Constants;
-import com.brojandos.web.programming_from_scratch.entity.User;
-import com.brojandos.web.programming_from_scratch.model.LoginBean;
+
+import com.brojandos.web.pfs.common.Constants;
+import com.brojandos.web.pfs.entity.User;
+import com.brojandos.web.pfs.model.LoginBean;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
